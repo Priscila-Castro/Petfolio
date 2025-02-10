@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\bin\Debug\net8.0\Petfolio.Communication.deps.json
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\bin\Debug\net8.0\Petfolio.Communication.dll
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\bin\Debug\net8.0\Petfolio.Communication.pdb
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.sourcelink.json
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.dll
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\refint\Petfolio.Communication.dll
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\Petfolio.Communication.pdb
+C:\Users\LENOVO\Desktop\projeto_web\Rocketseat\Petfolio\Petfolio.comunication\obj\Debug\net8.0\ref\Petfolio.Communication.dll
